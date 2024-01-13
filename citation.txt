@@ -1,0 +1,7 @@
+@inproceedings{REPO143,
+    author = "Li, Zhuohan and Zheng, Lianmin and Zhong, Yinmin and Liu, Vincent and Sheng, Ying and Jin, Xin and Huang, Yanping and Chen, Zhifeng and Zhang, Hao and Gonzalez, Joseph E and others",
+    booktitle = "17th USENIX Symposium on Operating Systems Design and Implementation (OSDI 23)",
+    pages = "663--679",
+    title = "{$\{$AlpaServe$\}$: Statistical Multiplexing with Model Parallelism for Deep Learning Serving}",
+    year = "2023"
+}
